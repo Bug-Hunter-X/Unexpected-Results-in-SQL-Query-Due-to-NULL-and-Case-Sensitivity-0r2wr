@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common SQL query error related to handling NULL values and case sensitivity within the WHERE clause. The `bug.sql` file shows the flawed query.  The solution, provided in `bugSolution.sql`, demonstrates how to correctly handle these scenarios to ensure accurate results.
